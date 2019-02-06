@@ -1,0 +1,8 @@
+/*
+ * this is loaded only because it's named rise.css in the current directory
+ */
+
+ /* ***** just a stupid setting that you cannot miss ***** */
+body.rise-enabled div.CodeMirror {
+    font-size: 200%;
+}
